@@ -1,0 +1,17 @@
+{
+"users"[
+ {"id":1 , "name":"Jesus","username":"ApoTheddy","email":"apotheddy@correo.com","image":"https://i.ibb.co/ZH73560/cody.jpg"},
+ {"id":2 , "name":"Manuel","username":"Manuelsito","email":"manuelsito@correo.com","image":"https://i.ibb.co/ZH73560/cody.jpg"},
+ {"id":3 , "name":"Victoria","username":"Victorita","email":"victoria@correo.com","image":"https://i.ibb.co/ZH73560/cody.jpg"}
+ ],
+  "post": [
+      {"id":1,"title":"Porque mi perro esta asustado","body":"pienso que es importante....","userId":1}
+      {"id":2,"title":"Mi perro se encuentra mal","body":"Muy Importante....","userId":2}
+      {"id":2,"title":"How are you going ?","body":"pienso....","userId":2}
+  ],
+  
+  "comment": [
+  {"id":1,"body":"some comement","postId":1}
+  {"id":2,"body":"some comement","postId":1}
+  ]
+}
